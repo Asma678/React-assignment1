@@ -1,0 +1,15 @@
+.funcDiv {
+    background-color: #1378ae;
+    border-radius: 7px;
+    padding: 2rem 1rem;
+    margin: 0 5rem;
+    margin-right: 0;
+    text-align: center;
+    width: fit-content;
+    float: left;
+    color: rgb(245, 130, 130);
+  }
+  
+  .funcDiv p {
+    font-size: larger;
+  }

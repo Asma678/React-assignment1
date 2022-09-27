@@ -1,0 +1,28 @@
+.heading {
+    text-align: center;
+  }
+  
+  .btn-container {
+    margin-top: 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 7rem;
+  }
+  button {
+    background-color: #1ec596;
+    border: none;
+    border-radius: 8px;
+    padding: 1rem;
+    font-size: 1.2rem;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0e8f6d;
+  }
+  
+  .heading-container {
+    margin-bottom: 8rem;
+  }

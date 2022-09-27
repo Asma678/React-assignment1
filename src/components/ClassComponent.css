@@ -1,0 +1,18 @@
+body{
+  background-color: aqua;
+}
+.classDiv {
+    background-color: #e27e36;
+    border-radius: 7px;
+    padding: 2rem 1rem;
+    margin: 0 5rem;
+    margin-left: 0;
+    text-align: center;
+    width: fit-content;
+    float: right;
+    color: rgb(210, 47, 47);
+  }
+  
+  .classDiv p {
+    font-size: larger;
+  }
